@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- Icons -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+
+
+    <title>Asraf||Profile</title>
+    <link rel="shortcut icon" href="assets/img/logo.png">
+</head>
+
+<body>
+    <!--Intro animation-->
+    <div class="intro">
+        <h1 class="logo-header">
+            <span class="logo">W</span><span class="logo">e</span><span class="logo">l</span><span
+                class="logo">c</span><span class="logo">o</span><span class="logo">m</span><span class="logo">e</span>
+        </h1>
+    </div>
+
+    <div id="particles-js"></div>
+
+    <header class="l-header" id="head">
+        <nav class="nav bd-grid">
+            <div>
+                <a href="" class="nav_logo">
+                    <img src="assets/img/logo.png" alt="">
+                </a>
+            </div>
+
+            <div class="nav_menu" id="nav-menu">
+                <ul class="nav_list" id="navlist">
+                    <li class="nav_item"><a style="text-decoration:none" href="" class="nav_link active">Home</a></li>
+                    <li class="nav_item"><a style="text-decoration:none" href="#profile" class="nav_link">Profile</a></li>
+                    <li class="nav_item"><a style="text-decoration:none" href="#skills" class="nav_link">Skills</a></li>
+                    <li class="nav_item"><a style="text-decoration:none" href="#work" class="nav_link">Projects</a></li>
+                    <li class="nav_item"><a style="text-decoration:none" href="#contact" class="nav_link">Contact</a></li>
+
+                    <!--Dark mode toggle-->
+                    <div class="toggle-container">
+                        <input type="checkbox" id="toggle" name="toggle">
+                        <label class="lab" for="toggle"><i class='bx bxs-moon'></i></label>
+                    </div>
+                </ul>
+            </div>
+
+            <div class="nav_toggle" id="nav-toggle">
+                <i class='bx bx-menu'></i>
+            </div>
+        </nav>
+    </header>
+
+    <main class="l-main">
+        <!-- HOME -->
+        <section class="home bd-grid" id="home">
+            <div class="home_data">
+                <h1 class="home_title">Hi, <br>
+                    I'm <span class="home_title-color">Asraf</span><br> <span id="autoWrite"></span></h1>
+
+                <a style="text-decoration:none" href="#contact" class="button">Contact</a>
+            </div>
+
+            <div class="home_social">
+                <a href="https://www.linkedin.com/in/md-asrafuzzaman-opu-8a9a1b208?utm_source=share&utm_campaign=sha"
+                    target="_blank" class="home_social-icon"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://github.com/asraf705" target="_blank" class="home_social-icon"><i
+                        class="bx bxl-github"></i></a>
+            </div>
+
+            <div class="home_img">
+                <img src="assets/img/me.png" alt="">
+            </div>
+        </section>
+
+        <!-- Profile -->
+        <section class="about section" id="profile">
+            <h2 class="section-title">Profile</h2>
+
+            <div class="about_container bd-grid">
+                <div class="about_img">
+                    <img src="assets/img/about1.jpg" alt="">
+                </div>
+
+                <div>
+                    <h2 class="about_subtitle">Hi, I'm Asraf</h2>
+                    <p class="about_text">As a passionate and dedicated individual, I specialize in HTML design, Laravel
+                        back-end development, and Python programming. I am committed to crafting visually appealing and
+                        functional websites, utilizing my expertise in front-end design and back-end development. My
+                        proficiency in Laravel ensures robust and efficient website functionality, while my Python
+                        skills enable me to create dynamic and versatile applications. Despite being a fresher, my
+                        enthusiasm, determination, and continuous learning drive my ambition to excel in the field of
+                        web development. I aim to deliver high-quality solutions that combine aesthetics with seamless
+                        functionality to meet the diverse needs of clients.
+                    </p>
+
+                    <ul class="about_text mt-4 px-md-0 px-2">
+                        <li class="d-flex"><span>Name: Md. Asrafuzzaman Opu</span></li>
+                        <li class="d-flex"><span>Date of birth: December 01, 2002</span></li>
+                        <li class="d-flex"><span>Address: Ibrahimpur Kafrul Dhaka Cantonment</span>
+                        </li>
+                        <li class="d-flex"><span>Zip code: Dhaka-1206</span></li>
+                        <li class="d-flex"><span>Email: <a style="text-decoration:none; color: orangered;"
+                                    href="mailto:asrfuzzaman379@gmail.com">asrfuzzaman379@gmail.com</a></span>
+                        </li>
+                        <li class="d-flex"><span>Phone: <a style="text-decoration:none; color: orangered;"
+                                    href="tel://+8801314924003">+8801314-924003</a></span></li>
+                    </ul>
+
+                    <a style="text-decoration:none" href="assets/Cv/CV.pdf" target="_blank" class="button cv">Download
+                        CV</a>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Experience
+        <section class="skills section" id="skills">
+            <h2 class="section-title">Experience</h2>
+            <div class=" bd-grid">
+
+            </div>
+        </section> -->
+
+        <!-- Resume -->
+        <section class="skills section" id="skills">
+            <h2 class="section-title">Education</h2>
+            <div class=" bd-grid">
+
+                <div class="row">
+                    <div class="col-6 mb-3 mb-sm-0 w-65">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Diploma in Engineering (Computer Technology)</h5>
+                                <h6 style="color: crimson;">2019-2024</h6>
+                                <hr>
+                                <p class="card-text">AHSANULLAH INSTITUTE OF TECHNICAL & VOCATIONAL EDUCATION & TRAINING
+                                    (AITVET)</p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Secondary School Certificate (SSC)</h5>
+                                <h6 style="color: crimson;">2018-2019</h6>
+                                <hr>
+                                <p class="card-text">MUSLIM MODERN ACADEMY</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!-- SKILLS -->
+        <section class="skills section" id="skills">
+            <h2 class="section-title">Skills</h2>
+            <div class="skills_container bd-grid">
+                <div>
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class='bx bxl-html5 skills_icon'></i>
+                            <span class="skills_name">HTML</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class='bx bxl-javascript skills_icon'></i>
+                            <span class="skills_name">JAVASCRIPT</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class='bx bxl-python skills_icon'></i>
+                            <span class="skills_name">PYTHON</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class='bx bxl-css3 skills_icon'></i>
+                            <span class="skills_name">CSS</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class="fa-brands fa-laravel"></i>
+                            <span class="skills_name"> Laravel</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+
+                    <div class="skills_data">
+                        <div class="skills_names">
+                            <i class='bx bxl-camerinstagram-alt skills_icon'></i>
+                            <span class="skills_name">PHOTOGRAPHER</span>
+                        </div>
+                        <div class="skills_bar skills_"></div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- experience -->
+        <section class="skills section" id="skills">
+            <h2 class="section-title">Experience</h2>
+            <div class=" bd-grid">
+
+                <div class="row">
+
+                    <div class="col-6 mb-3 mb-sm-0 w-65">
+
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Software and App Development (Intern)</h5>
+                                <h6 style="color: crimson;">2023 (6 Month)</h6>
+                                <hr>
+                                <p class="card-text"><a href="https://www.bitm.org.bd/"></a> BASIS INSTITUTE OF
+                                    TECHNOLOGY & MANAGEMENT (BITM)</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Computer Tnstructor (Basic Computer)</h5>
+                                <h6 style="color: crimson;">2022-2023 (1 Year)</h6>
+                                <hr>
+                                <p class="card-text">F-Mart</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!-- WORK -->
+        <section class="work section" id="work">
+            <h2 class="section-title">Projects</h2>
+            <div class="work_container bd-grid">
+
+                <a href="https://github.com/asraf705" target="_blank" class="work_img">
+                    <img src="assets/img/my-git.png" alt="">
+                </a>
+
+                <a href="https://aitvet-edu-html.vercel.app/" target="_blank" class="work_img">
+                    <img src="assets/img/aitvet.png" alt="">
+                </a>
+
+                <a href="https://mostafiz-tiles-web-html.vercel.app/" target="_blank" class="work_img">
+                    <img src="assets/img/tiles.png" alt="">
+                </a>
+
+                <a href="https://github.com/asraf705/nokkhotro-tower" target="_blank" class="work_img">
+                    <img src="assets/img/nokhtrotower.png" alt="">
+                </a>
+
+            </div>
+
+
+        </section>
+
+        <section class="work section" id="work">
+            <h2 class="section-title">Work</h2>
+            <div class="work_container bd-grid">
+                <a href="https://aitvet-edu-html.vercel.app/" target="_blank" class="work_img">
+                    <img src="assets/img/aitvet.png" alt="">
+                </a>
+            </div>
+        </section>
+
+    
+
+        <!-- CONTACT -->
+        <section class="contact section" id="contact">
+            <h2 class="section-title">Contact</h2>
+            <div class=" bd-grid">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7301.378809043259!2d90.38287190000001!3d23.79407215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7317100df57%3A0x91083163723b4822!2sIbrahimpur%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1703787819254!5m2!1sen!2sbd"
+                    width="900" height="400" style="border:0;align-items: center;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="row d-flex contact-info mb-5">
+                    <div class="col-md-6 col-lg-3 d-flex ftco-animate fadeInUp ftco-animated">
+                        <div class="align-self-stretch box p-4 text-center">
+
+                            <h3 class="mb-4" style="color: orangered;">Address</h3>
+                            <h6>Ibrahimpur Kafrul Dhaka Cantonment,Dhaka-1206</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 d-flex ftco-animate fadeInUp ftco-animated">
+                        <div class="align-self-stretch box p-4 text-center">
+
+                            <h3 class="mb-4" style="color: orangered;">Mobile</h3>
+                            <h6>+8801314-924003</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 d-flex ftco-animate fadeInUp ftco-animated">
+                        <div class="align-self-stretch box p-4 text-center">
+
+                            <h3 class="mb-4" style="color: orangered;">Email Address</h3>
+                            <h6>asrfuzzaman379@gmail.com</h6>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p class="footer_title">Md. Asrafuzzaman Opu
+                <hr>
+            </p>
+            <div class="footer_social">
+                <a href="https://www.facebook.com/profile.php?id=100026887309289&mibextid=zLoPMf" class="footer_icon"><i
+                        class='bx bxl-facebook'></i></a>
+                <a href="https://wa.me/qr/7DQL6MO3WDB3P1" class="footer_icon"><i class='bx bxl-whatsapp'></i></a>
+                <a href="#" class="footer_icon"><i class='bx bxl-twitter'></i></a>
+            </div>
+            <p>&#169; 2023 copyright all right reserved</p>
+        </footer>
+    </main>
+
+
+
+    <!-- Scroll -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+    <!-- Autowriter -->
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+
+    <!-- Particles -->
+    <script src="assets/js/particles.js"></script>
+
+    <!-- <script src="particles.js-master/particles.js"></script>
+    <script src="/particles.js-master/demo/js/app.js"></script> -->
+
+    <!-- Javascript -->
+    <script src="assets/js/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
