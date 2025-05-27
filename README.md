@@ -27,16 +27,28 @@
 I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bangladesh. I love crafting robust web applications, solving complex problems, and contributing to open-source projects. My journey in tech is fueled by a commitment to learning and building impactful solutions.
 
 ---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=0D1117" width="100%" alt="Asraf's GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&hide_title=true&hide=prs,issues,contribs&include_all_commits=true&count_private=true&theme=radical&hide_border=false&title_color=FBBF24&icon_color=F87171&text_color=E5E7EB&bg_color=0D1117" 
+    width="100%" 
+    alt="Asraf705's GitHub Stats" 
+  />
 </div>
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=radical&hide_border=false&background=0D1117" width="45%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=0D1117&hide_border=false" width="45%" alt="Top Languages"/>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=radical&hide_border=false&background=0D1117" 
+    width="45%" 
+    alt="GitHub Streak"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=0D1117&hide_border=false" 
+    width="45%" 
+    alt="Top Languages"
+  />
 </div>
-
-
 
 ---
 
