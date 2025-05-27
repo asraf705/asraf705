@@ -28,7 +28,7 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
 
 ---
 <p>
-  <img src="https://github-readme-streak-stats.demolab.com?user=asraf705&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" width="48%" alt="GitHub Streak"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" width="100%" alt="GitHub Stats"/>
 </p>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="45%" alt="GitHub Streak" />
