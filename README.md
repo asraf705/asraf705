@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF5733¢er=true&vCenter=true&width=435&lines=Full+Stack+Laravel+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=435&lines=Full+Stack+Laravel+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
