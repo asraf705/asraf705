@@ -39,16 +39,6 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
 
 ---
 
-## 🌐 Languages
-
-| Language | Proficiency         | Sprache         | Niveau           | Taal           | Niveau        |
-|----------|---------------------|-----------------|------------------|----------------|---------------|
-| English  | Fluent              | Englisch        | Fließend         | Engels         | Vloeiend      |
-| German   | Intermediate        | Deutsch         | Mittelstufe      | Duits          | Gemiddeld     |
-| Dutch    | Beginner            | Niederländisch  | Anfänger         | Nederlands     | Beginneling   |
-
----
-
 ## ✨ Favorite Quote
 > “Code is like poetry; it’s about expressing complex ideas with clarity and elegance.”
 
@@ -58,7 +48,7 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
 
 - 🔗 [LinkedIn](https://linkedin.com/in/asraf705)
 - 🐙 [GitHub](https://github.com/asraf705)
-- 📧 [Email](mailto:asraf@example.com)
+- 📧 [Email](mailto:asrafuzzaman705@gmail.com)
 
 ---
 
@@ -67,5 +57,3 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
     Thank you for visiting my profile! Let's build something amazing together! 🚀
   </span>
 </p>
-<p align="center">Danke fürs Vorbeischauen! 🙌</p>
-<p align="center">Bedankt voor het bezoeken! 🙏</p>
