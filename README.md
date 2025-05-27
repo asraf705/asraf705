@@ -1,27 +1,37 @@
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#FF5733;">Md Asrafuzzaman Opu</span>
-</h1>
+# 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=435&lines=Full+Stack+Laravel+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF5733¢er=true&vCenter=true&width=435&lines=Full+Stack+Laravel+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asraf705&label=Profile+Views&color=0e75b6&style=flat" alt="asraf705" />
+  <img src="https://komarev.com/ghpvc/?username=asraf705&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=000000" width="40%" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 About Me
 
+I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bangladesh. I love crafting robust web applications, solving complex problems, and contributing to open-source projects. My journey in tech is fueled by a commitment to learning and building impactful solutions.
+
 | Detail                | Description                              |
 |-----------------------|------------------------------------------|
-| 🌍 Location           | Bangladesh                               |
-| 🎓 Education          | Bachelor in Computer Science (CSE)       |
-| 💼 Profession         | Full Stack Laravel Developer             |
-| ⚙️ Technologies       | PHP, Laravel, MySQL, JavaScript, React, Next.js |
-| 💬 Languages          | English 🇬🇧, German 🇩🇪, Dutch 🇳🇱         |
-| 📫 Contact            | [LinkedIn](https://linkedin.com/in/asraf705) / [Email](mailto:asraf@example.com) |
+| 🌍 **Location**       | Bangladesh                               |
+| 🎓 **Education**      | Bachelor in Computer Science (CSE)       |
+| 💼 **Profession**     | Full Stack Laravel Developer             |
+| ⚙️ **Technologies**   | PHP, Laravel, MySQL, JavaScript, React, Next.js |
+| 💬 **Languages**      | English 🇬🇧, German 🇩🇪, Dutch 🇳🇱         |
+| 📫 **Contact**        | [LinkedIn](https://linkedin.com/in/asraf705) / [Email](mailto:asraf@example.com) |
 
 ---
 
@@ -37,7 +47,7 @@
 
 ---
 
-## 🌐 Languages / Sprachen / Talen
+## 🌐 Languages
 
 | Language | Proficiency         | Sprache         | Niveau           | Taal           | Niveau        |
 |----------|---------------------|-----------------|------------------|----------------|---------------|
@@ -47,18 +57,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="48%" alt="asraf705 GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="asraf705 GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=000000" width="40%" alt="Top Languages" /> </p>
-
----
-
-## ✨ Quote
-> “Striving every day to write better code and build amazing applications.”
+## ✨ Favorite Quote
+> “Code is like poetry; it’s about expressing complex ideas with clarity and elegance.”
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/asraf705)
 - 🐙 [GitHub](https://github.com/asraf705)
@@ -66,6 +70,10 @@
 
 ---
 
-<p align="center">Thank you for visiting! 👏</p>
+<p align="center">
+  <span style="background: linear-gradient(90deg, #FF5733, #FFA500); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Thank you for visiting my profile! Let's build something amazing together! 🚀
+  </span>
+</p>
 <p align="center">Danke fürs Vorbeischauen! 🙌</p>
 <p align="center">Bedankt voor het bezoeken! 🙏</p>
