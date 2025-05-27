@@ -14,7 +14,7 @@ I am a passionate **Full Stack Laravel Developer** with a strong foundation in w
 | 🌍 Location           | Bangladesh                         |
 | 🎓 Education          | Bachelor in Computer Science (CSE)|
 | 💼 Profession         | Full Stack Laravel Developer       |
-| ⚙️ Technologies       | PHP, Laravel, MySQL, JavaScript, React, Next.js, Flutter |
+| ⚙️ Technologies       | PHP, Laravel, MySQL, JavaScript, React, Next.js |
 | 📫 Contact            | [LinkedIn](https://linkedin.com/in/asraf705) / [Email](mailto:asraf@example.com) |
 
 ---
@@ -34,18 +34,6 @@ I am a passionate **Full Stack Laravel Developer** with a strong foundation in w
 | Language | Proficiency         | Sprache         | Niveau           | Taal           | Niveau        |
 |----------|---------------------|-----------------|------------------|----------------|---------------|
 | English  | Fluent / Professional | Englisch        | Fließend         | Engels         | Vloeiend     |
-| German   | Intermediate         | Deutsch         | Mittelstufe      | Duits          | Gemiddeld    |
-| Dutch    | Beginner             | Niederländisch  | Anfänger         | Nederlands     | Beginneling  |
-
----
-
-## 🚀 Projects Highlights / Projekte / Projecten
-
-| Project Name                | Description                              | Tech Stack               |
-|----------------------------|------------------------------------------|--------------------------|
-| Laravel E-Commerce Platform | Full-featured multi-vendor e-commerce system with JWT auth, cart, checkout | PHP, Laravel, MySQL, JS  |
-| Next.js API Integration     | Integrated complex APIs with Next.js frontend and Laravel backend | Next.js, Laravel, REST   |
-| Mobile App for eVisa        | Flutter app for Kuwait eVisa verification with Laravel backend | Flutter, Laravel, MySQL  |
 
 ---
 
