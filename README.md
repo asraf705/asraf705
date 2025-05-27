@@ -8,16 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=asraf705&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=000000" width="40%" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🔥 About Me
@@ -44,6 +34,18 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraf705&layout=compact&theme=radical&title_color=F7B801&text_color=F2F2F2&bg_color=000000" width="40%" alt="Top Languages" />
+</p>
 
 ---
 
