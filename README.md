@@ -27,11 +27,8 @@
 I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bangladesh. I love crafting robust web applications, solving complex problems, and contributing to open-source projects. My journey in tech is fueled by a commitment to learning and building impactful solutions.
 
 ---
-
-## 📈 My GitHub Stats
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&hide_title=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="100%" alt="GitHub Stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=false&hide_title=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="100%" alt="GitHub Stats" />
 </p>
 
 </p>
