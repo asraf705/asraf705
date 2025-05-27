@@ -14,15 +14,6 @@
 
 I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bangladesh. I love crafting robust web applications, solving complex problems, and contributing to open-source projects. My journey in tech is fueled by a commitment to learning and building impactful solutions.
 
-| Detail                | Description                              |
-|-----------------------|------------------------------------------|
-| 🌍 **Location**       | Bangladesh                               |
-| 🎓 **Education**      | Bachelor in Computer Science (CSE)       |
-| 💼 **Profession**     | Full Stack Laravel Developer             |
-| ⚙️ **Technologies**   | PHP, Laravel, MySQL, JavaScript, React, Next.js |
-| 💬 **Languages**      | English 🇬🇧, German 🇩🇪, Dutch 🇳🇱         |
-| 📫 **Contact**        | [LinkedIn](https://linkedin.com/in/asraf705) / [Email](mailto:asraf@example.com) |
-
 ---
 
 ## 🚀 Skills & Tools
@@ -41,6 +32,9 @@ I'm Md Asrafuzzaman Opu, a passionate **Full Stack Laravel Developer** from Bang
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asraf705&show_icons=true&theme=gradient&border_radius=12&title_color=FFA500&icon_color=FF6347&text_color=FFFFFF&bg_color=30,0f2027,203a43,2c5364" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asraf705&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
